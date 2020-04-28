@@ -1,0 +1,10 @@
+tensorflow==1.14.0
+Keras ==2.2.4
+Flask
+scikit-image
+opencv-python
+PIL
+spicy
+imutils
+numpy
+json
